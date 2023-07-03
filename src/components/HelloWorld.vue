@@ -7,7 +7,9 @@
         A young fledgeling aspiring to become full
         fledged full-stack developer.
       </p>
-      <button>Explore</button>
+      <a href="/about">
+        <button>Explore</button>
+      </a>
     </div>
 
     <div class="socials">
